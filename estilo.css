@@ -8,8 +8,14 @@ h1{
     border: 3px solid;
     border-radius: 30px;
     margin-left: 20%;
+    margin-right: 20%;
     text-align: center;
     background-color: black;
+}
+h3{
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 body{
     background-color: antiquewhite;
