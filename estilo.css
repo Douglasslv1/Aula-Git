@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+    font-style: italic;
+    border: 3px solid;
+    border-radius: 30px;
+    margin-left: 20%;
+    text-align: center;
+    background-color: black;
+}
+body{
+    background-color: antiquewhite;
+}
+
+h1:hover{
+    color: #D94F04;
+    transition: .5s;
+}
