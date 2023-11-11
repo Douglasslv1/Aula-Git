@@ -35,3 +35,9 @@ footer{
 .imagem img{
     width: 20px;
 }
+.imagem2{
+    display: flex;
+  flex: row;
+  align-items: center;
+
+}
